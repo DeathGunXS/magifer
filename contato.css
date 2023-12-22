@@ -3,12 +3,12 @@ main {
     flex-direction: row;
 }
 
-.data, .map {
+.data, .mapBox {
     position: relative;
     left: 20%;
 }
 
-.map {
+.mapBox {
     margin-top: 1%;
 }
 
@@ -45,11 +45,11 @@ a {
         position: relative;
         left: 6%;
     }
-
+/* 
     .map {
         position: relative;
         left: 11%;
-    }
+    } */
 }
 
 @media screen and (max-width: 372px) {
