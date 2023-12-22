@@ -45,11 +45,11 @@ a {
         position: relative;
         left: 6%;
     }
-/* 
+
     .map {
         position: relative;
         left: 11%;
-    } */
+    }
 }
 
 @media screen and (max-width: 372px) {
