@@ -41,3 +41,9 @@ main {
         right: 10%;
     }
 }
+
+@media screen and (max-width: 372px) {
+    .item img {
+        width: 500px;
+    }
+}
