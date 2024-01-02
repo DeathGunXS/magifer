@@ -23,6 +23,10 @@ header {
     height: 500px;
 }
 
+.searching {
+    margin-right: 10%;
+}
+
 .tag {
     display: flex;
     flex-direction: row;
